@@ -21,7 +21,7 @@
 
 // CHANGE THIS VAR TO DOWNLOAD ANIMATIONS FOR A DIFFERENT CHARACTER
 // const character = 'aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee'
-const character = 'ef7eb018-7cf3-4ae1-99ac-bab1c2c5d419'
+const character = 'e467db1c-f307-45f1-9579-0eb459452cd2'
 
 
 //=================================================================================================
